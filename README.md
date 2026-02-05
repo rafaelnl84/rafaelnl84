@@ -1,6 +1,6 @@
 # Stefan Heman (@rafaelnl84)
 
-**Tech Lead** • **Full-Stack TypeScript Developer** • **ZZPer @ Heman - Tech in Motion**
+**Tech Lead** • **Full-Stack TypeScript Developer**
 
 Building production-grade affiliate tracking systems and personal SaaS products with modern web technologies.
 
@@ -58,7 +58,6 @@ Leading development of an enterprise affiliate tracking and analytics platform w
 
 - **3 days:** Client work (Stratter platform)
 - **2 days:** Personal SaaS products
-- **Location:** Netherlands
 
 ## Tools I Use Daily
 
@@ -68,12 +67,6 @@ Leading development of an enterprise affiliate tracking and analytics platform w
 - **Terminal:** Zsh + custom automation scripts
 - **Git:** Conventional commits, feature branch workflow
 
-## Connect
-
-📧 stefan.heman@gmail.com
-🌐 [stefanheman.com](https://stefanheman.com) (coming soon)
-💼 KVK: 95536728 (Heman - Tech in Motion)
-
 ---
 
-*Building reliable systems that scale. Open to consulting opportunities.*
+*Building reliable systems that scale.*
