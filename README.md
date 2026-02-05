@@ -1,4 +1,4 @@
-# Stefan Heman (@rafaelnl84)
+# @rafaelnl84
 
 **Tech Lead** • **Full-Stack TypeScript Developer**
 
