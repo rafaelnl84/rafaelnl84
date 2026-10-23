@@ -6,7 +6,7 @@ Building production-grade affiliate tracking systems and personal SaaS products 
 
 ## Current Work
 
-### Tech Lead @ Stratter (AMP Media Development)
+### Tech Lead @ Stratter
 Leading development of an enterprise affiliate tracking and analytics platform with 19+ network integrations.
 
 **Tech Stack:**
